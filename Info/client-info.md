@@ -71,6 +71,8 @@ Per the **Growth Retainer** agreement draft (2026-05-26, **not signed**; retaine
 - Organic search support on project basis.
 - Client wishes per meeting recap (NOOS deck, 2026): wants to be challenged with insight-based hypotheses (what to test next, structured learnings over time); category-specific creative strategies (some products inspirational, e.g. pennficka; some Problem→Solution).
 
+Internal NOOS plan (internal sync meeting, as of 2026-08-20 — not yet confirmed with client): Kenny is developing an AI-generated replacement for the Smartly + Sheet solution. Open questions still to resolve with the client: who is the client's key contact for Smartly, and what the client currently pays for Smartly (relevant to the value case for an in-house replacement). A walkthrough of Smartly with the client's Johan is planned (Kenny + Anna attending).
+
 Other suppliers / history: **56K Digital** pitched Dec 2024 (SEM/SOME retainer + SEO audit) and delivered an SEO website audit in March 2025; 56K, Rocket Revenue and NOOS now operate as one agency group. Client CRM (Mailchimp) work appears client-run; **Hubspot** in use for B2B; **Clerk.io** integrated for personalization. Other agencies: *Not yet collected*.
 
 ## Access & tools
