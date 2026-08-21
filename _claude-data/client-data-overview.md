@@ -14,7 +14,7 @@ Last updated: 2026-08-21
 - [x] Homepage
 - [~] Markets & languages
 - [~] Competitors
-- [ ] Meta Ads Library
+- [x] Meta Ads Library
 - [ ] Product feed URL
 - [~] Person in contact
 - [~] Decision & approval chain
@@ -68,3 +68,6 @@ Last updated: 2026-08-21
 - [~] Measurement maturity
 - [ ] Definition of a creative win
 - [ ] Test infrastructure
+
+## Scrapes/
+- [x] 260821-ad-scrape-vardvaskan.md — Vårdväskan (own brand), Meta, via Motion Inspo (no Ad Library browser pass, no performance data)

@@ -44,7 +44,7 @@ Partially collected (from 56K website audit, as of 2025-03): 7days (smallest com
 ## Meta Ads Library
 Link to the client's page in Meta Ads Library (facebook.com/ads/library).
 
-*Not yet collected*
+https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=SE&is_targeted_country=false&media_type=all&search_type=page&sort_data[direction]=desc&sort_data[mode]=total_impressions&view_all_page_id=101120089975936 — Page ID 101120089975936, confirmed as brand "Vårdväskan" via Motion Creative Analytics (as of 2026-08-21; see Scrapes/260821-ad-scrape-vardvaskan.md).
 
 ## Product feed URL
 URL to the client's product feed or product flow. **E-commerce clients only** — for other clients, write *Not applicable*. Used by production flows for image sourcing and QA.
